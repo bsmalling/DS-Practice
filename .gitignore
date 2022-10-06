@@ -1,5 +1,2 @@
-
 *.csv
-*.csv
-*.csv
-.ipynb_checkpoints/Videos-checkpoint.ipynb
+.ipynb_checkpoints/*
